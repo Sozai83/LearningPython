@@ -26,3 +26,8 @@ print(test1)
 
 print(hexToDec('A6G'))
 print(hexToDec('3C0'))
+hexToDec('1B')
+
+print(bool(-1) == 1)
+print(bool(-1))
+print(1)
